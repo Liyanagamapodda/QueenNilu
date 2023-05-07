@@ -7,11 +7,11 @@ const chalk = require('chalk')
 */
 
 //Owner Number & Name 
-global.owner = ['94767438882'] //ur owner number
-global.ownername = "Janith sadanuwan" //ur owner name
+global.owner = ['94740031990'] //ur owner number
+global.ownername = "Ashan Tharusha" //ur owner name
 
 //Bot Name 
-global.botname = 'ǫᴜᴇᴇɴ ɴɪʟᴜ' //ur bot name
+global.botname = 'Podda' //ur bot name
 global.wm = "ǫᴜᴇᴇɴ ɴɪʟᴜ" //ur watermark
 
 global.keyopenai = "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",
@@ -25,7 +25,7 @@ BOT SETTINGS
 */
 
 //Language English = 'EN' , Sinhala = 'SI' , Tamil= 'TL'
-global.LANG = 'EN'
+global.LANG = 'SI'
 
 global.READ_MASSAGE = true
 
